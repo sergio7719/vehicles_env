@@ -10,3 +10,4 @@ En la primera parte se importan las librerias para que nuesta pagina pueda funci
 
 3.- Y por ultimo vemos un diagrama de dispercion en donde se puede comparar entre el costo del carro y el modelo y puedas elegir el mas accesible.
 
+
