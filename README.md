@@ -8,3 +8,7 @@ En la primera parte se importan las librerias para que nuesta pagina pueda funci
 2.- En el segundo punto Se puede apreciar el kilometraje de cada tipo de autos para que puedas ver que tipo de auto te conviene
 
 3.- Y por ultimo vemos un diagrama de dispercion en donde se puede comparar entre el costo del carro y el modelo y puedas elegir el mas accesible.
+
+$.- Se agrega la URL para validar le despliege de mi pryecto 
+http://192.168.100.9:10000/
+
