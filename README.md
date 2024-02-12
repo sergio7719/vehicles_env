@@ -9,6 +9,6 @@ En la primera parte se importan las librerias para que nuesta pagina pueda funci
 
 3.- Y por ultimo vemos un diagrama de dispercion en donde se puede comparar entre el costo del carro y el modelo y puedas elegir el mas accesible.
 
-$.- Se agrega la URL para validar le despliege de mi pryecto 
-http://192.168.100.9:10000/
+$.- Se agrega la URL para validar el deploy del sprint 5
+
 
