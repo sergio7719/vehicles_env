@@ -7,7 +7,7 @@ st.title(":blue[Vehicles data view]  :car:  🛠️ ")
 
 
       
-vehicles_data = pd.read_csv('notebooks\vehicles_us.csv') # importacon de los datos
+vehicles_data = pd.read_csv('notebooks/vehicles_us.csv') # importacon de los datos
 
 
 with st.status("Loading data..."):
