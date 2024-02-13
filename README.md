@@ -8,4 +8,8 @@ En la primera parte se importan las librerias para que nuesta pagina pueda funci
 
 3.- Y por ultimo vemos un diagrama de dispercion en donde se puede comparar entre el costo del carro y el modelo y puedas elegir el mas accesible.
 
+<<<<<<< HEAD
 $.- Se agrega la URL para validar el deploy del sprint 5
+=======
+$.- Se agrega la URL para validar el deploy del sprint 5
+>>>>>>> e0403419e88fd6fd982acf8fca5b3faa051bb037
